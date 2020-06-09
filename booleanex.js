@@ -1,0 +1,11 @@
+
+console.log( true && false)
+console.log( true || false)    
+console.log( false && false)   
+console.log( true && (false || true))
+console.log( false || (true && false))
+console.log( false || 1<5 )
+console.log( 5>= 4 && 1>3 )
+console.log( 10<4 || 1>4 )
+console.log( 12>=2 && 1<24 )
+console.log( 'Hello'.charAt(0) == 'h' )
